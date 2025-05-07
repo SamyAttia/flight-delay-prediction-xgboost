@@ -13,8 +13,8 @@ Leveraging feature engineering, imbalance correction, and Bayesian-optimized XGB
 This project integrates data from multiple structured sources:
 
 * [`new.csv`](https://www.kaggle.com/datasets/hetsuhagiya/flight-delays-cleanded?select=new.csv) – Historical U.S. flight records with delay components  
-* [`airport_codes.csv`](https://www.kaggle.com/datasets/flashgordon/airport-codes) – Basic airport metadata (IATA, name, location)  
-* [`airports.csv`](https://www.kaggle.com/datasets/sahasrabudheair/airports-data) – Detailed global airport data (latitude/longitude, region, etc.)
+* [`airport_codes.csv`]([https://www.kaggle.com/datasets/flashgordon/airport-codes](https://www.kaggle.com/datasets/hetsuhagiya/flight-delays-cleanded?select=new.csv)) – Basic airport metadata (IATA, name, location)  
+* [`airports.csv`]([https://www.kaggle.com/datasets/sahasrabudheair/airports-data](https://www.kaggle.com/datasets/hetsuhagiya/flight-delays-cleanded?select=new.csv)) – Detailed global airport data (latitude/longitude, region, etc.)
 
 **Engineered features include:**
 - Haversine flight distance  
