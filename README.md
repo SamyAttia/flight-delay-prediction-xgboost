@@ -5,7 +5,7 @@ Flight delays are a major concern for passengers and airlines alike, affecting s
 Leveraging feature engineering, imbalance correction, and Bayesian-optimized XGBoost, this project achieves ~98% test accuracy and includes full explainability via SHAP values.
 
 <p align="center">
-  <img width="100%" alt="SHAP Summary Plot" src="figures/XGB_Bayesian_SHAP">
+  <img width="100%" alt="SHAP Summary Plot" src="figures/XGB_Bayesian_SHAP.png">
 </p>
 
 ## 🛫 Data Sources
