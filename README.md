@@ -12,7 +12,7 @@ Leveraging feature engineering, imbalance correction, and Bayesian-optimized XGB
 
 This project integrates data from multiple structured sources:
 
-* [`new.csv`](https://www.kaggle.com/datasets/shubhendra7/flight-delay-prediction) – Historical U.S. flight records with delay components  
+* [`new.csv`](https://www.kaggle.com/datasets/hetsuhagiya/flight-delays-cleanded?select=new.csv) – Historical U.S. flight records with delay components  
 * [`airport_codes.csv`](https://www.kaggle.com/datasets/flashgordon/airport-codes) – Basic airport metadata (IATA, name, location)  
 * [`airports.csv`](https://www.kaggle.com/datasets/sahasrabudheair/airports-data) – Detailed global airport data (latitude/longitude, region, etc.)
 
