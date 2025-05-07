@@ -19,7 +19,7 @@ This project integrates data from multiple structured sources:
 **Engineered features include:**
 - Haversine flight distance  
 - Time-based variables (hour, weekday, month)  
-- Delay categorization and interaction terms  
+- Delay categorization and interaction terms   
 
 
 ## 🔍 Project Objectives
