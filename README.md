@@ -46,7 +46,7 @@ This project integrates data from multiple structured sources:
   Fig. 1 — ROC Curve (AUC = 1.00)
 </p>
 <p align="center">
-  <img width="80%" alt="ROC" src="figures/roc.png">
+  <img width="80%" alt="ROC" src="figures/XGB_Bayesian_AUC-ROC.png">
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ This project integrates data from multiple structured sources:
 </p>
 
 <p align="center">
-  <img width="80%" alt="Calibration" src="figures/calibration.png">
+  <img width="80%" alt="Calibration" src="figures/XGB_Bayesian_platt-vs-isotonic.png">
 </p>
 
 ## ⚙️ Final Model & Explainability
